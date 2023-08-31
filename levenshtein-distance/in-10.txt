@@ -1,0 +1,10 @@
+a
+b
+END OF INPUT
+a
+abet
+abets
+abetted
+abetting
+academics
+academies
