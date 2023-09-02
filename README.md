@@ -1,2 +1,8 @@
 # CodeEval
-My CodeEval final summary statistics
+Selected CodeEval Hard Problems in Haskell and My CodeEval Final Summary Statistics
+
+## About CodeEval
+[blurb]
+
+
+
