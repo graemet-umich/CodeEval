@@ -1,0 +1,177 @@
+["m quaerat voluptatem.","pora incidunt ut labore et d",", consectetur, adipis
+ci velit","olore magnam aliqua","idunt ut labore et dolore magn","uptatem.","i
+ dolorem ipsum qu","iquam quaerat vol","psum quia dolor sit amet, consectetur,
+ a","ia dolor sit amet, conse","squam est, qui do","Neque porro quisquam est, 
+qu","aerat voluptatem.","m eius modi tem","Neque porro qui",", sed quia non nu
+mquam ei","lorem ipsum quia dolor sit amet","ctetur, adipisci velit, sed quia 
+non numq","unt ut labore et dolore magnam aliquam qu","dipisci velit, sed quia
+ non numqua","us modi tempora incid","Neque porro quisquam est, qui dolorem i"
+,"uam eius modi tem","pora inc","am al"]
+
+["ctetur, adipisci velit, sed quia non numqua","m quaerat voluptatem.","pora i
+ncidunt ut labore et d",", consectetur, adipisci velit","olore magnam aliqua",
+"idunt ut labore et dolore magn","uptatem.","i dolorem ipsum qu","iquam quaera
+t vol","psum quia dolor sit amet, consectetur, a","ia dolor sit amet, conse","
+squam est, qui do","Neque porro quisquam est, qu","aerat voluptatem.","m eius 
+modi tem","Neque porro qui",", sed quia non numquam ei","lorem ipsum quia dolo
+r sit amet","unt ut labore et dolore magnam aliquam qu","us modi tempora incid
+","Neque porro quisquam est, qui dolorem i","uam eius modi tem","pora inc","am
+ al"]
+ 
+["idunt ut labore et dolore magnam aliquam qu","ctetur, adipisci velit, sed qu
+ia non numqua","m quaerat voluptatem.","pora incidunt ut labore et d",", conse
+ctetur, adipisci velit","olore magnam aliqua","uptatem.","i dolorem ipsum qu",
+"iquam quaerat vol","psum quia dolor sit amet, consectetur, a","ia dolor sit a
+met, conse","squam est, qui do","Neque porro quisquam est, qu","aerat voluptat
+em.","m eius modi tem","Neque porro qui",", sed quia non numquam ei","lorem ip
+sum quia dolor sit amet","us modi tempora incid","Neque porro quisquam est, qu
+i dolorem i","uam eius modi tem","pora inc","am al"]
+
+["Neque porro quisquam est, qui dolorem i","idunt ut labore et dolore magnam a
+liquam qu","ctetur, adipisci velit, sed quia non numqua","m quaerat voluptatem
+.","pora incidunt ut labore et d",", consectetur, adipisci velit","olore magna
+m aliqua","uptatem.","i dolorem ipsum qu","iquam quaerat vol","psum quia dolor
+ sit amet, consectetur, a","ia dolor sit amet, conse","squam est, qui do","aer
+at voluptatem.","m eius modi tem","Neque porro qui",", sed quia non numquam ei
+","lorem ipsum quia dolor sit amet","us modi tempora incid","uam eius modi tem
+","pora inc","am al"]
+
+["lorem ipsum quia dolor sit amet, consectetur, a","Neque porro quisquam est, 
+qui dolorem i","idunt ut labore et dolore magnam aliquam qu","ctetur, adipisci
+ velit, sed quia non numqua","m quaerat voluptatem.","pora incidunt ut labore 
+et d",", consectetur, adipisci velit","olore magnam aliqua","uptatem.","i dolo
+rem ipsum qu","iquam quaerat vol","ia dolor sit amet, conse","squam est, qui d
+o","aerat voluptatem.","m eius modi tem","Neque porro qui",", sed quia non num
+quam ei","us modi tempora incid","uam eius modi tem","pora inc","am
+al"]
+
+[", consectetur, adipisci velit, sed quia non numqua","lorem ipsum quia dolor 
+sit amet, consectetur, a","Neque porro quisquam est, qui dolorem i","idunt ut 
+labore et dolore magnam aliquam qu","m quaerat voluptatem.","pora incidunt ut 
+labore et d","olore magnam aliqua","uptatem.","i dolorem ipsum qu","iquam quae
+rat vol","ia dolor sit amet, conse","squam est, qui do","aerat voluptatem.","m
+ eius modi tem","Neque porro qui",", sed quia non numquam ei","us modi tempora
+ incid","uam eius modi tem","pora inc","am al"]
+ 
+[", consectetur, adipisci velit, sed quia non numquam ei","lorem ipsum quia do
+lor sit amet, consectetur, a","Neque porro quisquam est, qui dolorem i","idunt
+ ut labore et dolore magnam aliquam qu","m quaerat voluptatem.","pora incidunt
+ ut labore et d","olore magnam aliqua","uptatem.","i dolorem ipsum qu","iquam 
+quaerat vol","ia dolor sit amet, conse","squam est, qui do","aerat voluptatem.
+","m eius modi tem","Neque porro qui","us modi tempora incid","uam eius modi t
+em","pora inc","am al"]
+
+["pora incidunt ut labore et dolore magnam aliquam qu",", consectetur, adipisc
+i velit, sed quia non numquam ei","lorem ipsum quia dolor sit amet, consectetu
+r, a","Neque porro quisquam est, qui dolorem i","m quaerat voluptatem.","olore
+ magnam aliqua","uptatem.","i dolorem ipsum qu","iquam quaerat vol","ia dolor 
+sit amet, conse","squam est, qui do","aerat voluptatem.","m eius modi tem","Ne
+que porro qui","us modi tempora incid","uam eius modi tem","pora
+inc","am al"]
+
+["m quaerat voluptatem.","pora incidunt ut labore et dolore magnam aliquam qu"
+,", consectetur, adipisci velit, sed quia non numquam ei","lorem ipsum quia do
+lor sit amet, consectetur, a","Neque porro quisquam est, qui dolorem i","olore
+ magnam aliqua","uptatem.","i dolorem ipsum qu","iquam quaerat vol","ia dolor 
+sit amet, conse","squam est, qui do","m eius modi tem","Neque porro qui","us m
+odi tempora incid","uam eius modi tem","pora inc","am al"]
+
+["lorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non n
+umquam ei","m quaerat voluptatem.","pora incidunt ut labore et dolore magnam a
+liquam qu","Neque porro quisquam est, qui dolorem i","olore magnam aliqua","up
+tatem.","i dolorem ipsum qu","iquam quaerat vol","ia dolor sit amet, conse","s
+quam est, qui do","m eius modi tem","Neque porro qui","us modi tempora incid",
+"uam eius modi tem","pora inc","am al"]
+
+["Neque porro quisquam est, qui dolorem i","lorem ipsum quia dolor sit amet, c
+onsectetur, adipisci velit, sed quia non numquam ei","m quaerat voluptatem.","
+pora incidunt ut labore et dolore magnam aliquam qu","olore magnam aliqua","up
+tatem.","i dolorem ipsum qu","iquam quaerat vol","ia dolor sit amet, conse","s
+quam est, qui do","m eius modi tem","us modi tempora incid","uam eius modi tem
+","pora inc","am al"]
+
+["uam eius modi tem","Neque porro quisquam est, qui dolorem i","lorem ipsum qu
+ia dolor sit amet, consectetur, adipisci velit, sed quia non numquam ei","m qu
+aerat voluptatem.","pora incidunt ut labore et dolore magnam aliquam qu","olor
+e magnam aliqua","uptatem.","i dolorem ipsum qu","iquam quaerat vol","ia dolor
+ sit amet, conse","squam est, qui do","us modi tempora incid","pora inc","am a
+l"]
+
+["i dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia n
+on numquam ei","uam eius modi tem","Neque porro quisquam est, qui dolorem i","
+m quaerat voluptatem.","pora incidunt ut labore et dolore magnam aliquam qu","
+olore magnam aliqua","uptatem.","iquam quaerat vol","ia dolor sit amet, conse"
+,"squam est, qui do","us modi tempora incid","pora inc","am al"]
+
+["iquam quaerat voluptatem.","i dolorem ipsum quia dolor sit amet, consectetur
+, adipisci velit, sed quia non numquam ei","uam eius modi tem","Neque porro qu
+isquam est, qui dolorem i","pora incidunt ut labore et dolore magnam aliquam q
+u","olore magnam aliqua","uptatem.","ia dolor sit amet, conse","squam est, qui
+ do","us modi tempora incid","pora inc","am al"]
+ 
+["Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
+, adipisci velit, sed quia non numquam ei","iquam quaerat voluptatem.","uam ei
+us modi tem","pora incidunt ut labore et dolore magnam aliquam qu","olore magn
+am aliqua","uptatem.","ia dolor sit amet, conse","squam est, qui do","us modi 
+tempora incid","pora inc","am al"]
+
+["uam eius modi tempora incid","Neque porro quisquam est, qui dolorem ipsum qu
+ia dolor sit amet, consectetur, adipisci velit, sed quia non numquam ei","iqua
+m quaerat voluptatem.","pora incidunt ut labore et dolore magnam aliquam qu","
+olore magnam aliqua","uptatem.","ia dolor sit amet, conse","squam est, qui do"
+,"pora inc","am al"]
+
+["uam eius modi tempora incidunt ut labore et dolore magnam aliquam qu","Neque
+ porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipi
+sci velit, sed quia non numquam ei","iquam quaerat voluptatem.","olore magnam 
+aliqua","uptatem.","ia dolor sit amet, conse","squam est, qui do","pora inc","
+am al"]
+
+["uam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat vo
+luptatem.","Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, c
+onsectetur, adipisci velit, sed quia non numquam ei","olore magnam aliqua","up
+tatem.","ia dolor sit amet, conse","squam est, qui do","pora inc","am
+al"]
+
+["uam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat vo
+luptatem.","Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, c
+onsectetur, adipisci velit, sed quia non numquam ei","olore magnam aliqua","ia
+ dolor sit amet, conse","squam est, qui do","pora inc","am al"]
+ 
+["Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur
+, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
+ dolore magnam aliquam quaerat voluptatem.","olore magnam aliqua","ia dolor si
+t amet, conse","squam est, qui do","pora inc","am al"]
+
+["squam est, qui dolore magnam aliqua","Neque porro quisquam est, qui dolorem 
+ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam e
+ius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptate
+m.","ia dolor sit amet, conse","pora inc","am al"]
+
+["squam est, qui dolore magnam aliquam al","Neque porro quisquam est, qui dolo
+rem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numqu
+am eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat volup
+tatem.","ia dolor sit amet, conse","pora inc"]
+
+***
+If the first fragment does not overlap any other fragments, remove it.
+***
+["squam est, qui dolore magnam aliquam alNeque porro quisquam est, qui dolorem
+ ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam 
+eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptat
+em.","ia dolor sit amet, conse","pora inc"]
+
+["ia dolor sit amet, consesquam est, qui dolore magnam aliquam alNeque porro q
+uisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci veli
+t, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam 
+aliquam quaerat voluptatem.","pora inc"]
+
+["pora incia dolor sit amet, consesquam est, qui dolore magnam aliquam alNeque
+ porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipi
+sci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
+ magnam aliquam quaerat voluptatem."]
+ 
+pora incia dolor sit amet, consesquam est, qui dolore magnam aliquam alNeque p
+orro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisc
+i velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore m
+agnam aliquam quaerat voluptatem.  

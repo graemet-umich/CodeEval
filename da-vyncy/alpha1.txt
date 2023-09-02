@@ -1,0 +1,15 @@
+ab;bc;cd;de;ef
+ef;de;cd;bc;ab
+ef;ab;de;bc;cd
+cd;de;bc;ef;ab
+
+shit
+
+ab;bc;cd;de;ef;bcde
+
+shit
+
+abc;ab
+abc;bc
+abc;bc;b
+b;abc;bc

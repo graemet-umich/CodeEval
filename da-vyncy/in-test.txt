@@ -1,0 +1,84 @@
+ 1:m quaerat voluptatem.
+ 2:pora incidunt ut labore et d
+ 3:, consectetur, adipisci velit
+ 4:olore magnam aliqua
+ 5:idunt ut labore et dolore magn
+ 6:uptatem.
+ 7:i dolorem ipsum qu
+ 8:iquam quaerat vol
+ 9:psum quia dolor sit amet, consectetur, a
+10:ia dolor sit amet, conse
+11:squam est, qui do
+12:Neque porro quisquam est, qu
+13:aerat voluptatem.
+14:m eius modi tem
+15:Neque porro qui
+16:, sed quia non numquam ei
+17:lorem ipsum quia dolor sit amet
+18:ctetur, adipisci velit, sed quia non numq
+19:unt ut labore et dolore magnam aliquam qu
+20:dipisci velit, sed quia non numqua
+21:us modi tempora incid
+22:Neque porro quisquam est, qui dolorem i
+23:uam eius modi tem
+24:pora inc
+25:am al
+
+Overlap {fragment1 = "ctetur, adipisci velit, sed quia non numq", fragment2 = 
+"dipisci velit, sed quia non numqua", onLeft = True, olSeqLen = 32
+
+
+ 0:ctetur, adipisci velit, sed quia non numqua
+ 1:m quaerat voluptatem.
+ 2:pora incidunt ut labore et d
+ 3:, consectetur, adipisci velit
+ 4:olore magnam aliqua
+ 5:idunt ut labore et dolore magn
+ 6:uptatem.
+ 7:i dolorem ipsum qu
+ 8:iquam quaerat vol
+ 9:psum quia dolor sit amet, consectetur, a
+10:ia dolor sit amet, conse
+11:squam est, qui do
+12:Neque porro quisquam est, qu
+13:aerat voluptatem.
+14:m eius modi tem
+15:Neque porro qui
+16:, sed quia non numquam ei
+17:lorem ipsum quia dolor sit amet
+19:unt ut labore et dolore magnam aliquam qu
+21:us modi tempora incid
+22:Neque porro quisquam est, qui dolorem i
+23:uam eius modi tem
+24:pora inc
+25:am al
+
+Overlap {fragment1 = "idunt ut labore et dolore magn", fragment2 = "unt ut lab
+ore et dolore magnam aliquam qu", onLeft = True, olSeqLen = 28}
+
+
+-1:idunt ut labore et dolore magnam aliquam qu
+ 0:ctetur, adipisci velit, sed quia non numqua
+ 1:m quaerat voluptatem.
+ 2:pora incidunt ut labore et d
+ 3:, consectetur, adipisci velit
+ 4:olore magnam aliqua
+ 6:uptatem.
+ 7:i dolorem ipsum qu
+ 8:iquam quaerat vol
+ 9:psum quia dolor sit amet, consectetur, a
+10:ia dolor sit amet, conse
+11:squam est, qui do
+12:Neque porro quisquam est, qu
+13:aerat voluptatem.
+14:m eius modi tem
+15:Neque porro qui
+16:, sed quia non numquam ei
+17:lorem ipsum quia dolor sit amet
+21:us modi tempora incid
+22:Neque porro quisquam est, qui dolorem i
+23:uam eius modi tem
+24:pora inc
+25:am al
+
+
